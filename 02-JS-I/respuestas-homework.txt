@@ -1,0 +1,5 @@
+Variables es un espacio en la memoria para almacenar valores para luego recuperarlas facilmente,
+String es un tipo de datoo de bloques de textos que se colocoan entre comillas simpleso o dobles.
+Las funciones son objetos que agrupan codigo, lo guarda para luego ejecutarlo. Sirve para no repetirse cuando programamos.
+La declaracion 'if' se utiliza como condicion de una funcion, quiere decir 'Si'. Se usa para tomar decisiones y como resultardo arrojara True o False
+Valores Booleanos son  el resultado de una operación lógica. Arrojan True o False dependiendo de la operacion que analicen.
