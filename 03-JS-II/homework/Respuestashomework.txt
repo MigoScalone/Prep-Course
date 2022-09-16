@@ -1,1 +1,3 @@
 El termino for se utiliza para crear bucles para no repetirse cuando programamos, "for" recibe un valor de inicio, uno de corte (condicion de frenado) y en cuanto se va incrementando el valor (paso) hata que corta.
+los terminos && (and), || (or), ! (not) son operadores lógicos y los usamos en programación para establecer condiciones.
+ok ok
