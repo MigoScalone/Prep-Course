@@ -1,0 +1,1 @@
+El termino for se utiliza para crear bucles para no repetirse cuando programamos, "for" recibe un valor de inicio, uno de corte (condicion de frenado) y en cuanto se va incrementando el valor (paso) hata que corta.
