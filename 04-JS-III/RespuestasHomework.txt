@@ -1,0 +1,1 @@
+Arrays son listas de elementos para guardar valores dentro, pueden recibir todo tipo de datos y se accede a ellos por posiciones. Funcionan como una variable.
